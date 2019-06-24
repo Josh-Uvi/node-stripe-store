@@ -19,7 +19,7 @@
         <% items.phone.forEach(function(item){ %>
         <div class="shop-item" data-item-id="<%= item.id %>">
           <span class="shop-item-title"><%= item.name %></span>
-          <img class="shop-item-image" src="../public/images/<%= item.imgName %>" />
+          <img class="shop-item-image" src="/images/<%= item.imgName %>" />
           <div class="shop-item-details">
             <span class="shop-item-price">£<%= item.price /100 %></span>
             <button class="btn btn-primary shop-item-button" type="button">
