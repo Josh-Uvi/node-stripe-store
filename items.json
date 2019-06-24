@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Phone 1",
       "price": 1499,
-      "imgName": "./public/images/Phone 2.png"
+      "imgName": "./public/images/Phone2.png"
     },
     {
       "id": 2,
       "name": "Phone 2",
       "price": 1199,
-      "imgName": "./public/images/Phone 3.png"
+      "imgName": "./public/images/Phone3.png"
     },
     {
       "id": 3,
       "name": "Phone 3",
       "price": 1399,
-      "imgName": "./public/images/Phone 4.png"
+      "imgName": "./public/images/Phone4.png"
     },
     {
       "id": 4,
       "name": "Phone 4",
       "price": 1599,
-      "imgName": "./public/images/Phone 5.png"
+      "imgName": "./public/images/Phone5.png"
     }
   ],
   "accessories": [
@@ -30,19 +30,19 @@
       "id": 6,
       "name": "Accessory 1",
       "price": 1099,
-      "imgName": "./public/images/acc 1.png"
+      "imgName": "./public/images/acc1.png"
     },
     {
       "id": 7,
       "name": "Accessory 2",
       "price": 699,
-      "imgName": "./public/images/acc 2.png"
+      "imgName": "./public/images/acc2.png"
     },
     {
       "id": 8,
       "name": "Accessory 3",
       "price": 899,
-      "imgName": "./public/images/acc 4.png"
+      "imgName": "./public/images/acc4.png"
     }
   ]
 }
