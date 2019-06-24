@@ -5,7 +5,7 @@ A simple ecommerce web store built with nodejs and stripe. The app recieve and p
 https://web-store-node-stripe.herokuapp.com/store
 
 TO RUN THE APP
-- Git clone the repo
+- Git clone this repo
 - Install the dependencies: npm install or yarn 
 - Create an acoount with stripe
 - Create a new project in the stripe dashboard to get API keys
